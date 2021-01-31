@@ -1,0 +1,41 @@
+
+.header{
+  position: fixed;
+  width: 100%;
+  background-color: black;
+  height: 50px;
+  margin-bottom: 25px;
+  nav{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    a{
+      cursor : pointer;
+      button{
+        padding : 17px;
+        color: white;
+        background-color: transparent;
+        outline: 0;
+        border: 0;
+        overflow: hidden;
+      }
+    }
+  }
+}
+
+.ripple {
+  background-position: center;
+  transition: background 0.5s;
+}
+.ripple:hover {
+  background: #1f1e1e radial-gradient(circle,#1f1e1e  1%, transparent 1%) center/15000%;
+  color : white;
+}
+.ripple:active {
+  background-color:white;
+  background-size: 100%;
+  color: black;
+  transition: background 0s;
+}

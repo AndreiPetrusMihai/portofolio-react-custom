@@ -1,0 +1,43 @@
+
+
+
+.homepage{
+  border: solid blue;
+  margin : 0;
+  border : 0;
+
+  .container{
+    padding-left: 70px;
+    padding-right: 70px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+
+    .colorSplashContainer{
+      margin-top: 20vh;
+      background-repeat: no-repeat;
+      background-image: url("../../Assets/black-profile-splash.svg");
+      background-size: cover;
+      background-position: center;
+      width: 100vh;
+      height:50vh;
+
+    }
+
+    .textContainer{
+      margin-top: 35vh;
+      width: 40vw;
+      height:50vh;
+      .shortBio{
+        margin-top: 3vh;
+        padding: 10px;
+        border-right: solid black;
+        border-left: solid black;
+        height: auto;
+        font-size: 20px;
+        word-wrap: break-word
+      }
+    }
+  }
+
+}

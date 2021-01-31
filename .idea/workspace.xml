@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad14848e-65b9-4742-bf05-2ecc8426da8c" name="Default Changelist" comment="" />
+    <list default="true" id="ad14848e-65b9-4742-bf05-2ecc8426da8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/black-profile-splash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/HeaderComponent/header.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/HeaderComponent/header.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/HomePage/homePage.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/HomePage/homePage.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/ProjectsPage/projectsPage.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/ProjectsPage/projectsPage.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/pages.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +45,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JetBrains\Projects\WebStorm\custom-portofolio\src\Assets" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
@@ -51,7 +73,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612045296146</updated>
-      <workItem from="1612045297319" duration="603000" />
+      <workItem from="1612045297319" duration="1583000" />
+      <workItem from="1612094115766" duration="10747000" />
     </task>
     <servers />
   </component>
@@ -68,5 +91,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
